@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Ahmed Abbad
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/yourusername)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/yourhandle)
-[![Blog Badge](https://img.shields.io/badge/Website-Blog-orange?style=flat&logo=google-chrome&logoColor=white)](https://yourblog.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ahmed-mubarak-8811b7281)
+[![Blog Badge](https://img.shields.io/badge/Website-Blog-orange?style=flat&logo=google-chrome&logoColor=white)](https://ahmed-simple-blog.vercel.app/)
 
 **Full-Stack Developer | Mobile Developer | Open Source Contributor | Tech Enthusiast**
 
